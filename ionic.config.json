@@ -1,0 +1,7 @@
+{
+  "name": "never-miss-again",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
